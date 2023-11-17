@@ -6,13 +6,13 @@
 ### <div align="center">Me chamo Gabriel 👨‍💻</div>  
   
 
-- 🌱 Estou aprendendo Python, C/C++, Django, IA/ML, MySQL, além de outras linguagens e devops diversos  
+- 🌱 Estou aprendendo Python, C/C++, Django, IA/ML, MySQL / PostgreSQL, além de Desenvolvimento Web com HTML / CSS e WordPress  
   
 
 - 📚 Estou cursando Analise e Desenvolvimento de Sistemas / Fatec Ourinhos   
   
 
-- 🏢 Estou atualmente fazendo estágio no INSS - Ourinhos  
+- 🏢 Atualmente trabalhando como Desenvolvedor Jr
   
 
 <br/>  
